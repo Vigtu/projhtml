@@ -63,6 +63,10 @@ header nav a {
     padding: 5px;
 }
 
+nav > a:hover {
+    background-color: #315292;
+}
+
 #forms {
     margin: 50px auto;
     width: 80%;
